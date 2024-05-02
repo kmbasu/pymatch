@@ -1,5 +1,4 @@
-PyMatch
-======
+## PyMatch
 
 This is a fork of the **PyMF** package written by Jens Erler (see Github and paper links below). This version contains additional module to do matched multi-filtering with constrains on the frequency domain (essentially a matched filtering combined with the constrained-ILC method, to minimize undesirable components). 
 
