@@ -1,3 +1,4 @@
+====
 PyMatch
 ====
 
@@ -8,9 +9,4 @@ Please refer to the original **PyMF** page for more info.
 .. image:: https://img.shields.io/badge/GitHub-j--erler%2Fpymf-blue.svg?style=fla
 .. image:: https://img.shields.io/badge/arXiv%3A-1809.06446-orange.svg?style=flat
     :target: https://arxiv.org/abs/1809.06446
-
-Documentation
--------------
-
-Original PyMF documentation is available at `pymf.readthedocs.io <https://pymf.readthedocs.io/>`_.
 
