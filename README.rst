@@ -7,6 +7,8 @@ This is a fork of the **PyMF** package written by Jens Erler (see Github and pap
 Please refer to the original **PyMF** page for more info.
 
 .. image:: https://img.shields.io/badge/GitHub-j--erler%2Fpymf-blue.svg?style=fla
+    :target: https://github.com/j-erler/pymf
+
 .. image:: https://img.shields.io/badge/arXiv%3A-1809.06446-orange.svg?style=flat
     :target: https://arxiv.org/abs/1809.06446
 
